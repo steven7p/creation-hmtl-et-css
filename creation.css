@@ -1,0 +1,91 @@
+h1,p{
+    text-align: center;
+    color: white;
+}
+
+p{
+    font-size: 20px;
+}
+
+h2{
+    margin-left: 100px;
+    color: white;
+}
+
+body{
+    background-image: url("imageseconnecter/Kuroko\ no\ Basket\ Kiseki\ no\ Seidai.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+h3{
+    text-align: center;
+}
+
+img{
+    width: 250px; 
+    border-radius: 15px 15px;
+    display: block;
+    margin: 0 auto;
+    transition: all ease 0.3s;
+}
+
+ul{
+    list-style: none;
+}
+
+.s2{
+    text-align: center;
+}
+
+.s2 div{
+    padding: 5px 5px;
+}
+
+.s1{
+    transition: all ease 0.3s;
+}
+
+.s1 #theshooter:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 3px 5px rgb(105, 196, 105);
+}
+
+.s1 #legeant:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 3px 5px violet;
+}
+
+.s1 #copycat:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 3px 5px yellow;
+}
+
+.s1 #AS:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 3px 5px blue;
+}
+
+.s1 #shadow:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 3px 5px rgb(132, 132, 255);
+}
+
+.s1 #emperor:hover{
+    transform: scale(1.1);
+    box-shadow: 2px 3px 5px rgb(212, 78, 78);
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+input, button{
+    border-radius: 5px;
+}
+
+legend,label{
+    color: rgb(160, 158, 158);
+    font-size: 20px;
+    
+}
